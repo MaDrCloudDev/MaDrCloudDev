@@ -4,5 +4,5 @@
 ### Serving Arizona & Mexico
 #### 2022. All Rights Reserved
 ##### Currently only monitoring [@email](mailto:azbusiness@madr.io) for attribution concerns
-##### MaDr Cloud Development unopen until further notice. Stay tuned.
+### MaDr Cloud Development unopen until further notice. Stay tuned.
 ## Happy Women's History Month!
