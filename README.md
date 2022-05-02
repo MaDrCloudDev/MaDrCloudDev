@@ -10,10 +10,8 @@
 ### Hi there :rocket::cactus:[MaDr](https://MaDr.io) :cloud: Full-Stack Cloud Developer 
 ### GitHub Status
 <div id='profile-them'><a class='github-status' href='https://github.com/MaDrCloudDev'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=MaDrCloudDev&show_icons=true&theme=radical' />
-<a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MaDrCloudDev&layout=compact' />
-</div>
-<br/><br/>
-### 🧰
+  
+  <div>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,6 +23,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  </div>
 </body>
 </html>
 
