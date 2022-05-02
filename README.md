@@ -1,7 +1,3 @@
-
-### [MaDrCloudDev.github.io](https://MaDrCloudDev.github.io)
-![MaDrCloudDev GitHub stats](https://github-readme-stats.vercel.app/api?username=madrclouddev&show_icons=true&theme=radical)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,16 +7,7 @@
   <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
-
 ### Hi there :rocket::cactus:[MaDr](https://MaDr.io) :cloud: Full-Stack Cloud Developer 
-<div align="center">
-	<br>
-	<a href="https://github.com/MaDrCloudDev">
-		<img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-
 ### GitHub Status
 <div id='profile-them'><a class='github-status' href='https://github.com/MaDrCloudDev'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=MaDrCloudDev&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/Tadesse-Alemayehu'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MaDrCloudDevu&layout=compact' />
