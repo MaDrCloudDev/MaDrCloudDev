@@ -31,6 +31,7 @@
 [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)
 [![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)
+[![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
 <br/>
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](https://code.visualstudio.com/insiders/)
 [![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)](https://www.office.com/)
