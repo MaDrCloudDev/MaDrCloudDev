@@ -28,7 +28,7 @@
 <br/>
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)
 [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)
+[![Remix Badge](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=plastic)](https://remix.run/)
 [![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)
 [![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
 <br/>
