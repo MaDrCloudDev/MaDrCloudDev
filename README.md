@@ -1,8 +1,7 @@
 
-# :rocket::cactus:[MaDr](https://MaDr.io) :cloud: Full Stack Cloud Developer
-
+# :rocket::cactus:[MaDr](https://MaDr.io) :cloud: 
+## Full Stack Cloud Developer
 [![](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
- 
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)](https://www.typescriptlang.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://www.javascript.com/)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)](https://www.w3.org/Style/CSS/Overview.en.html)
