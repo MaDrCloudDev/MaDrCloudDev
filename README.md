@@ -26,7 +26,6 @@
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/)
 [![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
-[![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic)](https://expressjs.com/)
 <br/>
 [![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)
