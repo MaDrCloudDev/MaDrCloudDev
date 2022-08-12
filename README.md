@@ -21,6 +21,7 @@
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)](https://vercel.com/)
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/)
 [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic)](https://expressjs.com/)
+[![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=plastic)](https://trpc.io/)
 <br/>
 [![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)
