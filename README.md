@@ -16,25 +16,25 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)](https://nodejs.org/en/)
 [![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic)](https://www.npmjs.com/)
 <br/>
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)](https://www.mongodb.com/)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)](https://vercel.com/)
+[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)](https://www.mongodb.com/)
 [![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic)](https://expressjs.com/)
-[![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=plastic)](https://trpc.io/)
 <br/>
+[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)
 [![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)
-[![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)
 [![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)
+[![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=plastic)](https://trpc.io/)
+[![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
+<br/>
 [![Jekyll Badge](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff&style=plastic)](https://jekyllrb.com/)
-<br/>
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](https://code.visualstudio.com/insiders/)
-[![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)](https://www.office.com/)
-[![Microsoft Edge Badge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)](https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev&version=74.1.96.24)
-<br/>
 [![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)](https://www.figma.com/)
 [![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=plastic)](https://www.adobe.com/products/illustrator.html)
+<br/>
 [![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic)](https://www.adobe.com/products/photoshop.html)
+[![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)](https://www.office.com/)
+[![Microsoft Edge Badge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)](https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev&version=74.1.96.24)
 [![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=plastic)](https://brave.com/)
