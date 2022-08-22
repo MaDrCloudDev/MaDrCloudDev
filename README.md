@@ -1,40 +1,112 @@
-
-# :rocket::cactus:[MaDr.io](https://MaDr.io) :cloud: 
-## Full-Stack Cloud Developer
-[![](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)](https://www.typescriptlang.org/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)](https://www.javascript.com/)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)](https://html.spec.whatwg.org/multipage/)
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=plastic)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-<br/>
-[![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)](https://www.linux.org/)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)](https://git-scm.com/)
-[![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)](https://www.gnu.org/software/bash/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic)](https://github.com/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic)](https://nodejs.org/en/)
-[![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=plastic)](https://www.npmjs.com/)
-<br/>
-[![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)](https://vercel.com/)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)
-[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)](https://www.mongodb.com/)
-[![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=plastic)](https://expressjs.com/)
-<br/>
-[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)
-[![Jamstack Badge](https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&logoColor=fff&style=plastic)](https://jamstack.org/)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)
-[![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)
-[![tRPC Badge](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=plastic)](https://trpc.io/)
-[![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
-<br/>
-[![Jekyll Badge](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff&style=plastic)](https://jekyllrb.com/)
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)](https://code.visualstudio.com/insiders/)
-[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)](https://www.figma.com/)
-[![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=plastic)](https://www.adobe.com/products/illustrator.html)
-<br/>
-[![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic)](https://www.adobe.com/products/photoshop.html)
-[![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=plastic)](https://www.office.com/)
-[![Microsoft Edge Badge](https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&logoColor=fff&style=plastic)](https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev&version=74.1.96.24)
-[![Brave Badge](https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=plastic)](https://brave.com/)
+<h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">MaDr.io</a> :cloud: </h1>
+<h2 align="center" id="full-stack-cloud-developer">Full-Stack Cloud Developer</h2>
+<p align="center">
+  <img src="https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg">
+</p>
+<p align="center">
+  <a href="https://matthewdrish.com">
+    <img src="https://camo.githubusercontent.com/ff7a385945142681b89aaf11bd0e9792e6a1bb9b9daf3e155275b1ebfe334b7d/68747470733a2f2f63646e2e7261776769742e636f6d2f6869656e64762f6869726561626c652f6d61737465722f7374796c65732f64656661756c742f7965732e737667" alt="Am I hireable?">
+  </a>
+</p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=fff&amp;style=plastic" alt="TypeScript Badge" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=000&amp;style=plastic" alt="JavaScript Badge" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&amp;logoColor=fff&amp;style=plastic" alt="CSS3 Badge" />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&amp;logoColor=fff&amp;style=plastic" alt="HTML5 Badge" />
+  </a>
+  <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">
+    <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&amp;logoColor=fff&amp;style=plastic" alt="Markdown Badge" />
+  </a>
+  <br />
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=000&amp;style=plastic" alt="Linux Badge" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff&amp;style=plastic" alt="Git Badge" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=plastic" alt="GNU Bash Badge" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&amp;logoColor=fff&amp;style=plastic" alt="GitHub Badge" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&amp;logoColor=fff&amp;style=plastic" alt="npm Badge" />
+  </a>
+  <br />
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&amp;logoColor=fff&amp;style=plastic" alt="Vercel Badge" />
+  </a>
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&amp;logoColor=fff&amp;style=plastic" alt="Netlify Badge" />
+  </a>
+  <a href="https://www.cloudflare.com/">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&amp;logoColor=fff&amp;style=plastic" alt="Cloudflare Badge" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic" alt="MongoDB Badge" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic" alt="Express Badge" />
+  </a>
+  <br />
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=000&amp;style=plastic" alt="React Badge" />
+  </a>
+  <a href="https://jamstack.org/">
+    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic" alt="Next.js Badge" />
+  </a>
+  <a href="https://astro.build/">
+    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&amp;logoColor=fff&amp;style=plastic" alt="Astro Badge" />
+  </a>
+  <a href="https://trpc.io/">
+    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
+  </a>
+  <a href="https://svelte.dev/">
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
+  </a>
+  <br />
+  <a href="https://jekyllrb.com/">
+    <img src="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&amp;logoColor=fff&amp;style=plastic" alt="Jekyll Badge" />
+  </a>
+  <a href="https://code.visualstudio.com/insiders/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&amp;logoColor=fff&amp;style=plastic" alt="Visual Studio Code Badge" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&amp;logoColor=fff&amp;style=plastic" alt="Adobe Illustrator Badge" />
+  </a>
+  <br />
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&amp;logoColor=fff&amp;style=plastic" alt="Adobe Photoshop Badge" />
+  </a>
+  <a href="https://www.office.com/">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&amp;logoColor=fff&amp;style=plastic" alt="Microsoft Office Badge" />
+  </a>
+  <a href="https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev&amp;version=74.1.96.24">
+    <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&amp;logoColor=fff&amp;style=plastic" alt="Microsoft Edge Badge" />
+  </a>
+  <a href="https://brave.com/">
+    <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&amp;logoColor=fff&amp;style=plastic" alt="Brave Badge" />
+  </a>
+</p>
