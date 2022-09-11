@@ -38,11 +38,11 @@
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff&amp;style=plastic" alt="Git Badge" />
   </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=plastic" alt="GNU Bash Badge" />
-  </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&amp;logoColor=fff&amp;style=plastic" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=plastic" alt="GNU Bash Badge" />
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
@@ -60,6 +60,9 @@
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&amp;logoColor=fff&amp;style=plastic" alt="Cloudflare Badge" />
   </a>
+  <a href="https://railway.app/">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=plastic" alt="Railway Badge" />
+  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic" alt="MongoDB Badge" />
   </a>
@@ -70,45 +73,19 @@
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=000&amp;style=plastic" alt="React Badge" />
   </a>
-  <a href="https://jamstack.org/">
-    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
-  </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic" alt="Next.js Badge" />
-  </a>
-  <a href="https://astro.build/">
-    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&amp;logoColor=fff&amp;style=plastic" alt="Astro Badge" />
   </a>
   <a href="https://trpc.io/">
     <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
   </a>
+  <a href="https://astro.build/">
+    <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&amp;logoColor=fff&amp;style=plastic" alt="Astro Badge" />
+  </a>
+  <a href="https://jamstack.org/">
+    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
+  </a>
   <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
-  </a>
-  <br />
-  <a href="https://jekyllrb.com/">
-    <img src="https://img.shields.io/badge/Jekyll-C00?logo=jekyll&amp;logoColor=fff&amp;style=plastic" alt="Jekyll Badge" />
-  </a>
-  <a href="https://code.visualstudio.com/insiders/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&amp;logoColor=fff&amp;style=plastic" alt="Visual Studio Code Badge" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&amp;logoColor=fff&amp;style=plastic" alt="Adobe Illustrator Badge" />
-  </a>
-  <br />
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&amp;logoColor=fff&amp;style=plastic" alt="Adobe Photoshop Badge" />
-  </a>
-  <a href="https://www.office.com/">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&amp;logoColor=fff&amp;style=plastic" alt="Microsoft Office Badge" />
-  </a>
-  <a href="https://www.microsoftedgeinsider.com/en-us/welcome?channel=dev&amp;version=74.1.96.24">
-    <img src="https://img.shields.io/badge/Microsoft%20Edge-0078D7?logo=microsoftedge&amp;logoColor=fff&amp;style=plastic" alt="Microsoft Edge Badge" />
-  </a>
-  <a href="https://brave.com/">
-    <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&amp;logoColor=fff&amp;style=plastic" alt="Brave Badge" />
   </a>
 </p>
