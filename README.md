@@ -88,4 +88,12 @@
   <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
   </a>
-</p>
+ <br>
+  <a href="https://figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&amp;logoColor=fff&amp;style=plastic" alt="Adobe Illustrator" />
+  </a>
+ </p>
+
