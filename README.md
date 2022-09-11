@@ -44,11 +44,11 @@
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=plastic" alt="GNU Bash Badge" />
   </a>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
-  </a>
   <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&amp;logoColor=fff&amp;style=plastic" alt="npm Badge" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
   </a>
   <br />
   <a href="https://vercel.com/">
