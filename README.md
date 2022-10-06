@@ -51,6 +51,9 @@
     <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
   </a>
   <br />
+  <a href="https://jamstack.org/">
+    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
+  </a>
   <a href="https://vercel.com/">
     <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&amp;logoColor=fff&amp;style=plastic" alt="Vercel Badge" />
   </a>
@@ -59,9 +62,6 @@
   </a>
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&amp;logoColor=fff&amp;style=plastic" alt="Cloudflare Badge" />
-  </a>
-  <a href="https://railway.app/">
-    <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=plastic" alt="Railway Badge" />
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic" alt="MongoDB Badge" />
@@ -73,22 +73,25 @@
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=000&amp;style=plastic" alt="React Badge" />
   </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic" alt="Next.js Badge" />
-  </a>
-  <a href="https://trpc.io/">
-    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
-  </a>
   <a href="https://astro.build/">
     <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&amp;logoColor=fff&amp;style=plastic" alt="Astro Badge" />
   </a>
-  <a href="https://jamstack.org/">
-    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic" alt="Next.js Badge" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="TailwindCSS Badge" />
   </a>
   <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
   </a>
  <br>
+ <a href="https://railway.app/">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=plastic" alt="Railway Badge" />
+  </a>
+  <a href="https://trpc.io/">
+    <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
+  </a>
   <a href="https://figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
   </a>
