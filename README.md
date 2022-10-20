@@ -51,14 +51,14 @@
   <a href="https://jamstack.org/">
     <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
   </a>
-  <a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&amp;logoColor=fff&amp;style=plastic" alt="Vercel Badge" />
-  </a>
   <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&amp;logoColor=fff&amp;style=plastic" alt="Netlify Badge" />
   </a>
   <a href="https://www.cloudflare.com/">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&amp;logoColor=fff&amp;style=plastic" alt="Cloudflare Badge" />
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&amp;logoColor=fff&amp;style=plastic" alt="Vercel Badge" />
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic" alt="MongoDB Badge" />
