@@ -35,20 +35,17 @@
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&amp;logoColor=000&amp;style=plastic" alt="Linux Badge" />
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff&amp;style=plastic" alt="Git Badge" />
-  </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&amp;logoColor=fff&amp;style=plastic" alt="GitHub Badge" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&amp;logoColor=fff&amp;style=plastic" alt="GNU Bash Badge" />
   </a>
   <a href="https://www.npmjs.com/">
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&amp;logoColor=fff&amp;style=plastic" alt="npm Badge" />
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
+  </a>
+    <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic" alt="Express Badge" />
   </a>
   <br />
   <a href="https://jamstack.org/">
@@ -65,9 +62,6 @@
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic" alt="MongoDB Badge" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic" alt="Express Badge" />
   </a>
   <br />
   <a href="https://reactjs.org/">
