@@ -48,9 +48,7 @@
     <img src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic" alt="Express Badge" />
   </a>
   <br />
-  <a href="https://jamstack.org/">
-    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
-  </a>
+  
   <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&amp;logoColor=fff&amp;style=plastic" alt="Netlify Badge" />
   </a>
@@ -80,8 +78,8 @@
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
   </a>
  <br>
- <a href="https://railway.app/">
-    <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=plastic" alt="Railway Badge" />
+  <a href="https://jamstack.org/">
+    <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
   </a>
   <a href="https://trpc.io/">
     <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
