@@ -44,11 +44,10 @@
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
   </a>
-    <a href="https://expressjs.com/">
+  <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic" alt="Express Badge" />
   </a>
   <br />
-  
   <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&amp;logoColor=fff&amp;style=plastic" alt="Netlify Badge" />
   </a>
@@ -77,7 +76,7 @@
   <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
   </a>
- <br>
+  <br>
   <a href="https://jamstack.org/">
     <img src="https://img.shields.io/badge/Jamstack-F0047F?logo=jamstack&amp;logoColor=fff&amp;style=plastic" alt="Jamstack Badge" />
   </a>
@@ -89,13 +88,12 @@
   </a>
   <a href="https://planetscale.com/">
     <img src="https://img.shields.io/badge/PlanetScale-000?logo=planetscale&logoColor=fff&style=plastic" alt="PlanetScale Badge" />
-  <a/>
-  <br>
-  <a href="https://figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&amp;logoColor=fff&amp;style=plastic" alt="Adobe Illustrator" />
-  </a>
- </p>
-
+    <a />
+    <br>
+    <a href="https://figma.com/">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
+    </a>
+    <a href="https://www.adobe.com/products/illustrator.html">
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&amp;logoColor=fff&amp;style=plastic" alt="Adobe Illustrator" />
+    </a>
+</p>
