@@ -84,6 +84,13 @@
   <a href="https://trpc.io/">
     <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
   </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic" alt="Prisma Badge" />
+  </a>
+  <a href="https://planetscale.com/">
+    <img src="https://img.shields.io/badge/PlanetScale-000?logo=planetscale&logoColor=fff&style=plastic" alt="PlanetScale Badge" />
+  <a/>
+  <br>
   <a href="https://figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
   </a>
