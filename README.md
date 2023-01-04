@@ -1,6 +1,5 @@
-<h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">Portfolio(MaDr.io)</a> :cloud:</h1>
-<h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Full-Stack Web Developer</a></h2>
-<h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Calling Card</a></h2>
+<h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">Portfolio (MaDr.io)</a> :cloud:</h1>
+<h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Full-Stack Web Developer (Calling Card)</a></h2>
 <p align="center">
     <a target="_blank" href="https://matthewdrish.com" alt="Link to matthewdrish.com">
         <img src="https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg" alt="MaDr logo" />
