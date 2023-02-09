@@ -90,7 +90,3 @@
     </a>
     <a href="https://figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
-    </a>
-        <a href="https://firebase.google.com/">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=plastic" alt="Firebase Badge" />
-    </a>
