@@ -82,3 +82,5 @@
     </a>
     <a href="https://figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
+    </a>
+    </p>
