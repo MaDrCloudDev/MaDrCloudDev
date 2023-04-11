@@ -50,6 +50,10 @@
         <a href="https://trpc.io/">
         <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
     </a>
+        </a>
+        <a href="https://railway.app/">
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=plastic" alt="Railway Badge" />
+    </a>
     <br />
     <a href="https://www.prisma.io/">
         <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic" alt="Prisma Badge" />
