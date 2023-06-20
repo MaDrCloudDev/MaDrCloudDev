@@ -2,7 +2,7 @@
 <h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Calling Card</a></h2>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-[My portfolio's integrated weather app isn't returning accurate results for the forecast. I'm trying out the National Weather Services API to if it's a better fit](https://borrowtheweather.madr.io). I'll see if I'm allowed to make it into a consumable API.
+[My portfolio's integrated weather app isn't returning accurate results for the forecast. I'm trying out the National Weather Services API to see if it's a better fit](https://borrowtheweather.madr.io). I'll look into if I'm allowed to turn it into a consumable API.
 
 <p align="center">
     <a target="_blank" href="https://matthewdrish.com" alt="Link to matthewdrish.com">
