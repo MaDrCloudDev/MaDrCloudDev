@@ -1,7 +1,7 @@
 <h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">Portfolio</a> :cloud:</h1>
 <h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Calling Card</a></h2>
 <h3 align="center">Full-Stack Web Developer</h3>
-
+<p>I program on Fedora with GNOME. Rather than usive native apps, my entire stack consists of progressive webapps. I store my data in cloud databases. I love throwing a Fedora live-USB into any machine and coding with little-to-no configuration or overhead. I use VSCode. I'm passionate for the internet and the web. If I'm going to build a native app, it'll be in Reactive Native or w/Tauri.</p>
 <p align="center">
     <a target="_blank" href="https://matthewdrish.com" alt="Link to matthewdrish.com">
         <img src="https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg" alt="MaDr logo" />
