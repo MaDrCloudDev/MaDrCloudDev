@@ -94,4 +94,10 @@
     <a href="https://figma.com/">
         <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic" alt="Figma Badge" />
     </a>
+    <a href="https://go.dev/">
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic" alt="Go Badge" />
+    </a>
+    <a href="https://go.dev/](https://www.rust-lang.org/">
+        <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=plastic" alt="Rust Badge" />
+    </a>
     </p>
