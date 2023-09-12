@@ -49,21 +49,24 @@
     <a href="https://nodejs.org/en/">
         <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic" alt="Node.js Badge" />
     </a>
+        <a href="https://trpc.io/">
+        <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
+    </a>
     <a href="https://nextjs.org/">
         <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&amp;logoColor=fff&amp;style=plastic" alt="Next.js Badge" />
     </a>
-    <a href="https://trpc.io/">
-        <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&amp;logoColor=fff&amp;style=plastic" alt="tRPC Badge" />
+    <a href="https://www.bun.sh/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic" alt="MySQL Badge" />
     </a>
     <br />
-    <a href="https://www.prisma.io/">
-        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic" alt="Prisma Badge" />
+    <a href="https://planetscale.com/">
+        <img src="https://img.shields.io/badge/PlanetScale-000?logo=planetscale&logoColor=fff&style=plastic" alt="PlanetScale Badge" />
     </a>
     <a href="https://tailwindcss.com/">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="TailwindCSS Badge" />
     </a>
-    <a href="https://planetscale.com/">
-        <img src="https://img.shields.io/badge/PlanetScale-000?logo=planetscale&logoColor=fff&style=plastic" alt="PlanetScale Badge" />
+    <a href="https://www.prisma.io/">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic" alt="Prisma Badge" />
     </a>
         <a href="https://svelte.dev/">
         <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&amp;logoColor=fff&amp;style=plastic" alt="Svelte Badge" />
@@ -97,7 +100,12 @@
     <a href="https://go.dev/">
         <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic" alt="Go Badge" />
     </a>
-    <a href="https://www.rust-lang.org/">
-        <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=plastic" alt="Rust Badge" />
+    <a href="https://www.bun.sh/">
+        <img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=plastic" alt="Bun Badge" />
+    </a>
+    <br />
+    <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge" />
     </a>
     </p>
+    ![PostgreSQL Badge]()
