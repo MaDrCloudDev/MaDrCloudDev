@@ -108,4 +108,3 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge" />
     </a>
     </p>
-    ![PostgreSQL Badge]()
