@@ -7,11 +7,6 @@
     </a>
 </p>
 <p align="center">
-    <a target="_blank" href="https://github.com/madrclouddev/amadrofsvelte/" alt="Link my template, aMaDrOfSvelte">
-        <span>My current stack!</span>
-    </a>
-</p>
-<p align="center">
     <a href="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub stats">
         <img src="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="" />
     </a>
