@@ -1,6 +1,6 @@
 <h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">Portfolio</a> :cloud:</h1>
 <h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Calling Card</a></h2>
-<h3 align="center">*NOTE: PlanetScale is cracking down on free accounts. I'm in the proccess of finding a solution for my portfolio projects. Until then, some projects aren't operational.</h3>
+<h6 align="center">*NOTE: PlanetScale is cracking down on free accounts. I'm in the proccess of finding a solution for my portfolio projects. Until then, some projects aren't operational.</h6>
 <h3 align="center">Fullstack Web Developer</h3>
 <p align="center">
     <a target="_blank" href="https://matthewdrish.com" alt="Link to matthewdrish.com">
