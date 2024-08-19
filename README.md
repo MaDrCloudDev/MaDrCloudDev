@@ -1,7 +1,6 @@
 <h1 align="center" id="-rocket-cactus-madr-io-https-madr-io-cloud-">:rocket::cactus: <a href="https://MaDr.io">Portfolio</a> :cloud:</h1>
 <h2 align="center" id="full-stack-cloud-developer"><a href="https://MatthewDrish.com">Calling Card</a></h2>
 <h6 align="center">*NOTE: PlanetScale is cracking down on free accounts. I've updated my portfolio to deal with the issue, but a number of my project demos still aren't functional.</h6>
-<h5 align="center">I'm working on <a href="https://sveltekit4drizzleturso.madr.io">svelteKit4DrizzleTurso</a> to replace <a href="https://amadrofsvelte.madr.io/">aMaDrofSvelte</a>. Waiting for SvelteKit2 to drop.</h5>
 <h3 align="center">Fullstack Web Developer</h3>
 <p align="center">
     <a target="_blank" href="https://matthewdrish.com" alt="Link to matthewdrish.com">
