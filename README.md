@@ -70,13 +70,13 @@
 	</a>
 	<a href="https://www.mongodb.com/">
 		<img
-			src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=fff&amp;style=plastic"
-			alt="MongoDB Badge" />
+			src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white"
+			alt="SQLite Badge" />
 	</a>
-	<a href="https://expressjs.com/">
+	<a href="https://hono.dev/">
 		<img
-			src="https://img.shields.io/badge/Express-000?logo=express&amp;logoColor=fff&amp;style=plastic"
-			alt="Express Badge" />
+			src="https://img.shields.io/badge/hono-%23fd842e.svg?style=plastic&logo=hono&logoColor=white"
+			alt="Hono Badge" />
 	</a>
 	<br />
 	<a href="https://reactjs.org/">
@@ -84,15 +84,15 @@
 			src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=000&amp;style=plastic"
 			alt="React Badge" />
 	</a>
-	<a href="https://nodejs.org/en/">
-		<img
-			src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic"
-			alt="Node.js Badge" />
-	</a>
 	<a href="https://bun.sh/">
 		<img
 			src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=plastic"
 			alt="Bun Badge" />
+	</a>
+	<a href="https://nodejs.org/en/">
+		<img
+			src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&amp;logoColor=fff&amp;style=plastic"
+			alt="Node.js Badge" />
 	</a>
 	<a href="https://turso.tech/">
 		<img
@@ -100,15 +100,15 @@
 			alt="Turso Badge" />
 	</a>
 	<br />
-	<a href="https://www.prisma.io/">
-		<img
-			src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic"
-			alt="Prisma Badge" />
-	</a>
 	<a href="https://www.drizzle.com/">
 		<img
 			src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=plastic"
 			alt="Drizzle Badge" />
+	</a>
+	<a href="https://www.prisma.io/">
+		<img
+			src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic"
+			alt="Prisma Badge" />
 	</a>
 	<a href="https://kit.svelte.dev/">
 		<img
@@ -152,14 +152,14 @@
 			src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=fff&amp;style=plastic"
 			alt="Figma Badge" />
 	</a>
-	<a href="https://tauri.app/">
-		<img
-			src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000&style=plastic"
-			alt="Tauri Badge" />
-	</a>
 	<a href="https://go.dev/">
 		<img
 			src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic"
 			alt="Go Badge" />
+	</a>
+		<a href="https://tauri.app/">
+		<img
+			src="https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000&style=plastic"
+			alt="Tauri Badge" />
 	</a>
 </p>
