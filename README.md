@@ -28,7 +28,7 @@
 
 <p align="center">
 	<a
-		href="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+		href="https://honzaap.github.io/GithubCity/?name=MaDrCloudDev&year=2025"
 		aria-label="GitHub stats">
 		<img
 			src="https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only"
