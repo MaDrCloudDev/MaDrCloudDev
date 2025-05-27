@@ -1,3 +1,28 @@
+<div align="center">
+
+# :rocket::cactus: [Portfolio](https://MaDr.io) :cloud:
+
+## [Calling Card](https://MatthewDrish.com)
+
+> ###### **NOTE:** PlanetScale has discontinued their free tier. I'm working to update and redeploy as many of my projects as I can (using free services), but a number of them will no longer have a usable, live version. I'm working to update my portfolio-project pages accordingly.
+
+### Full Stack Web Developer
+
+[![MaDr logo](https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg)](https://matthewdrish.com)
+
+[![GitHub stats](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://honzaap.github.io/GithubCity/?name=MaDrCloudDev&year=2025)
+
+ [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)](https://html.spec.whatwg.org/multipage/)[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic) ](https://www.w3.org/Style/CSS/Overview.en.html)[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic) ](https://www.javascript.com/)[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=plastic)](https://www.typescriptlang.org/)  
+ [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)](https://www.linux.org/)[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic) ](https://github.com/)[![SQLite Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ](https://www.mongodb.com/)[![Hono Badge](https://img.shields.io/badge/hono-%23fd842e.svg?style=plastic&logo=hono&logoColor=white)](https://hono.dev/)  
+ [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=plastic)](https://reactjs.org/)[![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=plastic) ](https://bun.sh/)[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=plastic) ](https://nodejs.org/en/)[![Turso Badge](https://img.shields.io/badge/Turso-4FF8D2?logo=turso&logoColor=000&style=plastic)](https://turso.tech/)  
+ [![Drizzle Badge](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=plastic)](https://www.drizzle.com/)[![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic) ](https://www.prisma.io/)[![SvelteKit Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic) ](https://kit.svelte.dev/)[![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=plastic)](https://nextjs.org/)  
+ [![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic) ](https://www.cloudflare.com/)[![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic) ](https://vercel.com/)[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)  
+ [![TailwindCSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)](https://tailwindcss.com/)[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic) ](https://figma.com/)[![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=plastic) ](https://go.dev/)[![Tauri Badge](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000&style=plastic)](https://tauri.app/)
+
+ </div>
+
+<!-- html version
+
 <h1 align="center">
 	:rocket::cactus: <a href="https://MaDr.io">Portfolio</a> :cloud:
 </h1>
