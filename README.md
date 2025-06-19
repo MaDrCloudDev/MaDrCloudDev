@@ -19,6 +19,9 @@
 [![Astro Badge](https://img.shields.io/badge/Astro-913dff?logo=astro&logoColor=fff&style=plastic)](https://astro.build/)[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/badge)[![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)](https://vercel.com/)[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)<br>
 [![TailwindCSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)](https://tailwindcss.com/)[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)](https://figma.com/)[![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=00ADD8)](https://go.dev/)[![Tauri Badge](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000&style=FFC131)](https://tauri.app/)
 
+
+[![GitHub overview](https://raw.githubusercontent.com/MaDrCloudDev/githubStats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)](https://profile-summary-for-github.com/user/madrclouddev)
+
 </div>
 
 <!-- html version
