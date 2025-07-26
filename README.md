@@ -19,8 +19,6 @@
 [![Drizzle Badge](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=plastic)](https://www.drizzle.com/)[![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=plastic)](https://www.prisma.io/)[![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=plastic)](https://www.cloudflare.com/badge)[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=plastic)](https://www.netlify.com/)<br>
 [![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=plastic)](https://vercel.com/)[![TailwindCSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)](https://tailwindcss.com/)[![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)](https://figma.com/)
 
-[![GitHub overview](https://raw.githubusercontent.com/MaDrCloudDev/githubStats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)](https://profile-summary-for-github.com/user/madrclouddev)
-
 </div>
 
 <!-- html version
