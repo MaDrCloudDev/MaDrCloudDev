@@ -4,8 +4,6 @@
 
 ## [Calling Card](https://MatthewDrish.com)
 
-> ###### **NOTE:** PlanetScale has discontinued their free tier. I'm working to update and redeploy as many of my projects as I can (using free services), but a number of them will no longer have a usable, live version. I'm working to update my portfolio-project pages accordingly.
-
 ### Full Stack Web Developer
 
 [![MaDr logo](https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg)](https://matthewdrish.com)
