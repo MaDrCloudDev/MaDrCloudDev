@@ -6,6 +6,13 @@
 
 ### Full Stack Web Developer
 
+---
+
+### ✨ Featured Project: [Cloudful](https://cloudful.cloud)
+**The full stack developer's cloud desktop** — DEMO.
+
+---
+
 [![MaDr logo](https://github.com/MaDrCloudDev/projectsImages/raw/master/MaDrLogo.svg)](https://matthewdrish.com)
 
 [![GitHub stats](https://raw.githubusercontent.com/MaDrCloudDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://honzaap.github.io/GithubCity/?name=MaDrCloudDev&year=2025)
