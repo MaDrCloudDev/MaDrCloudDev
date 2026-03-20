@@ -18,7 +18,7 @@
       <a href="https://elemadr.madr.io" style="text-decoration:none; color:inherit;">
         <img src="https://elemadr.madr.io/EleMaDr.svg" alt="Elemadr" width="100"/>
         <br/>
-        <b>EleMaDr/b><br/>
+        <b>EleMaDr</b><br/>
         <sub>Demo (WIP)</sub>
       </a>
     </td>
