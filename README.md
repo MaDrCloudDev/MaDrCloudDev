@@ -16,7 +16,7 @@
   <tr>
     <td align="center" style="padding:16px 24px;">
       <a href="https://elemadr.madr.io" style="text-decoration:none; color:inherit;">
-        <img src="https://elemadr.madr.io/EleMaDr.svg" alt="Elemadr" width="100"/>
+        <img src="https://raw.githubusercontent.com/MaDrCloudDev/projectsImages/refs/heads/master/EleMaDr.png" alt="Elemadr" width="100"/>
         <br/>
         <b>EleMaDr</b><br/>
         <sub>Demo (WIP)</sub>
